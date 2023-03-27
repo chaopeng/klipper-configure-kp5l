@@ -1,0 +1,11 @@
+# moonraker backup
+**/*.bkp
+
+# printer config backup
+**/printer-*.cfg
+
+# telegram_secrets
+**/telegram_secrets.conf
+
+# do not include 3rd party
+**/timelapse.cfg
